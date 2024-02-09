@@ -1,0 +1,4 @@
+random2
+tkinterx
+openpyxl
+setuptools
