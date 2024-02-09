@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "genpass"]
+	url = https://github.com/MLer-EX/genpass.git
+	fetch = +refs/heads/*:refs/remotes/genpass/*
